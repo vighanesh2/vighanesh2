@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Projects**
 
-- 👨‍💻 All of my projects are available at [https://vighanesh2.github.io/vighaneshgaund.github.io/index.html](https://vighanesh2.github.io/vighaneshgaund.github.io/index.html)
-
 - 💬 Ask me about **react, java, python**
 
 - 📫 How to reach me **vighanesh2@gmail.com**
