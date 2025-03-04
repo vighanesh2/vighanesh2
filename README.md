@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vighanesh</h1>
 <h3 align="center">A passionate Computer Science enthusiast</h3>
 
-- 🔭 I’m currently working on **AI text detector**
+- I’m currently working as a Software Engineer Intern at StudyFetch
 
-- 🌱 I’m currently learning **React Native, Software Engineering,and Algorithms**
-
-- 👯 I’m looking to collaborate on **Frontend and Backend Projects**
+- I’m looking to collaborate on **Frontend and Backend Projects**
 
 - 💬 Ask me about **react, java, python**
 
 - 📫 How to reach me **vighanesh2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t6jV4QTpfUKmymL9GEYKGSTCvKumAlDb/view?usp=sharing](https://drive.google.com/file/d/1t6jV4QTpfUKmymL9GEYKGSTCvKumAlDb/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I can read backwards**
 
