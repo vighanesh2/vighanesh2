@@ -66,10 +66,6 @@ Full-stack app with personalized recommendations, trailers, and subscription man
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vighanesh2&show_icons=true&theme=radical&hide_border=true" alt="Vighanesh's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighanesh2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vighanesh2&theme=radical" alt="GitHub Streak" />
