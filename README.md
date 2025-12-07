@@ -1,22 +1,63 @@
-<h1 align="center">Hi 👋, I'm Vighanesh</h1>
-<h3 align="center">A passionate Computer Science enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BC9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vighanesh+Gaund;Full-Stack+Software+Engineer;M.S.+Computer+Science+%7C+NYIT;Building+Impactful+%26+Apps" alt="Typing SVG" />
+</div>
 
-- I’m currently working as a Software Engineer Intern at StudyFetch
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:vgaund@nyit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+12018937350"><img src="https://img.shields.io/badge/Phone-201--893--7350-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
+</div>
 
-- I’m looking to collaborate on **Frontend and Backend Projects**
+---
 
-- 💬 Ask me about **react, java, python**
+## 👨‍🎓 Education
+- **M.S. Computer Science**  
+  New York Institute of Technology, NY  
+  *Expected May 2026* | GPA: **3.96** [file:1]
 
-- 📫 How to reach me **vighanesh2@gmail.com**
+- **B.S. Computer Science (Minor: Mathematics)**  
+  New York Institute of Technology, NY  
+  *May 2025* | GPA: **3.96** [file:1]
 
-- 📄 Know about my experiences 
+---
 
-- ⚡ Fun fact **I can read backwards**
+## 💼 Professional Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vgaund/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vighanesh gaund" height="30" width="40" /></a>
-</p>
+### Software Engineer  
+**Radiant Global Fund** (Remote) | *May 2025 – Aug 2025* [file:1]
+- Architected scalable stock analysis dashboard for 500+ securities using Python & MongoDB; improved data retrieval by **25%** via distributed web scraping [file:1]
+- Built real-time technical indicators engine (Fibonacci retracements, support/resistance) processing market streams; accelerated workflows by **30%** [file:1]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Software Engineer Intern  
+**StudyFetch** (Remote) | *Nov 2024 – May 2025* [file:1]
+- Developed full-stack social media analytics platform for 600K+ Instagram followers using Next.js, TypeScript, MongoDB & Apify API [file:1]
+- Created Three.js educational games & Rough.js visualizations for 1M+ monthly users; deployed AI comic generator with OpenAI API on Vercel [file:1]
+
+---
+
+## 🚀 Featured Projects
+
+### [Centipede](https://github.com/vighanesh2/centipede)  
+**Payment Optimization Platform** | *Flask • React Native • MongoDB • Stripe API*  
+🏆 **BostonHacks Best Financial Hack**  
+Cross-platform fintech app with reward maximization algorithm and secure payments [file:1]
+
+### [Zentro](https://github.com/vighanesh2/zentro)  
+**Stock Analysis Platform** | *React • Firebase • TypeScript • Yahoo Finance API*  
+Real-time market dashboard with pattern recognition; **40% faster** live updates via caching [file:1]
+
+### [Movie Streaming Platform](https://github.com/vighanesh2/movie-streaming)  
+**Next.js • React • MySQL • TMDB API • Tailwind CSS**  
+Full-stack app with personalized recommendations, trailers, and subscription management [file:1]
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming** | JavaScript, TypeScript, Python, Java, C, Go [file:1] |
+| **Web Dev** | Next.js, React, React Native, Flask, Node.js, REST APIs [file:1] |
+| **Databases** | MySQL, MongoDB, Firebase, Supabase [file:1] |
+| **Tools/APIs** | Git, Vercel, Stripe, OpenAI API, TMDB API, Apify [file:1] |
+
