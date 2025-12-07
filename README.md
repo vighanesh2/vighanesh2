@@ -61,3 +61,31 @@ Full-stack app with personalized recommendations, trailers, and subscription man
 | **Databases** | MySQL, MongoDB, Firebase, Supabase [file:1] |
 | **Tools/APIs** | Git, Vercel, Stripe, OpenAI API, TMDB API, Apify [file:1] |
 
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vighanesh2&show_icons=true&theme=radical&hide_border=true" alt="Vighanesh's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighanesh2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vighanesh2&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Achievements & Leadership
+- **Vice-President, Campus Activities Board**
+- **Graduate Assistant • Teaching Assistant** 
+- Hackathon Winner: **Best Financial Hack** (BostonHacks)
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BC9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%93%A2;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+
