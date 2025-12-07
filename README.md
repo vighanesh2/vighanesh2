@@ -17,25 +17,21 @@
 ## 👨‍🎓 Education
 - **M.S. Computer Science**  
   New York Institute of Technology, NY  
-  *Expected May 2026* | GPA: **3.96** [file:1]
-
-- **B.S. Computer Science (Minor: Mathematics)**  
-  New York Institute of Technology, NY  
-  *May 2025* | GPA: **3.96** [file:1]
+  *Expected May 2026* | GPA: **3.96** 
 
 ---
 
 ## 💼 Professional Experience
 
 ### Software Engineer  
-**Radiant Global Fund** (Remote) | *May 2025 – Aug 2025* [file:1]
-- Architected scalable stock analysis dashboard for 500+ securities using Python & MongoDB; improved data retrieval by **25%** via distributed web scraping [file:1]
-- Built real-time technical indicators engine (Fibonacci retracements, support/resistance) processing market streams; accelerated workflows by **30%** [file:1]
+**Radiant Global Fund** (Dubai) | *May 2025 – Aug 2025*
+- Architected scalable stock analysis dashboard for 500+ securities using Python & MongoDB; improved data retrieval by **25%** via distributed web scraping 
+- Built real-time technical indicators engine (Fibonacci retracements, support/resistance) processing market streams; accelerated workflows by **30%** 
 
 ### Software Engineer Intern  
-**StudyFetch** (Remote) | *Nov 2024 – May 2025* [file:1]
-- Developed full-stack social media analytics platform for 600K+ Instagram followers using Next.js, TypeScript, MongoDB & Apify API [file:1]
-- Created Three.js educational games & Rough.js visualizations for 1M+ monthly users; deployed AI comic generator with OpenAI API on Vercel [file:1]
+**StudyFetch** (New York) | *Nov 2024 – May 2025*
+- Developed full-stack social media analytics platform for 600K+ Instagram followers using Next.js, TypeScript, MongoDB & Apify API 
+- Created Three.js educational games & Rough.js visualizations for 1M+ monthly users; deployed AI comic generator with OpenAI API on Vercel
 
 ---
 
@@ -44,15 +40,15 @@
 ### [Centipede](https://github.com/vighanesh2/centipede)  
 **Payment Optimization Platform** | *Flask • React Native • MongoDB • Stripe API*  
 🏆 **BostonHacks Best Financial Hack**  
-Cross-platform fintech app with reward maximization algorithm and secure payments [file:1]
+Cross-platform fintech app with reward maximization algorithm and secure payments 
 
 ### [Zentro](https://github.com/vighanesh2/zentro)  
 **Stock Analysis Platform** | *React • Firebase • TypeScript • Yahoo Finance API*  
-Real-time market dashboard with pattern recognition; **40% faster** live updates via caching [file:1]
+Real-time market dashboard with pattern recognition; **40% faster** live updates via caching
 
 ### [Movie Streaming Platform](https://github.com/vighanesh2/movie-streaming)  
 **Next.js • React • MySQL • TMDB API • Tailwind CSS**  
-Full-stack app with personalized recommendations, trailers, and subscription management [file:1]
+Full-stack app with personalized recommendations, trailers, and subscription management
 
 ---
 
