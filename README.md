@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>  
   <a href="mailto:vgaund@nyit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="tel:+12018937350"><img src="https://img.shields.io/badge/Phone-201--893--7350-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
+<a href="https://vighanesh.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=googlesite&logoColor=white" alt="Personal Website" />
+</a>
 </div>
 
 ---
