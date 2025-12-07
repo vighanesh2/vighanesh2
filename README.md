@@ -79,6 +79,17 @@ Full-stack app with personalized recommendations, trailers, and subscription man
 - Hackathon Winner: **Best Financial Hack** (BostonHacks)
 
 ---
+### 💻 Activity Breakdown
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vighanesh2&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+### 🏆 Trophy Case
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vighanesh2&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BC9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%93%A2;Let's+build+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
